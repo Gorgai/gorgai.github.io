@@ -2419,7 +2419,9 @@ input, select, textarea {
 			border-radius: 5px;
 			display: block;
 		}
-
+#banner > div > a > img {
+	border-radius: 50%;
+}
 		.image.left, .image.right {
 			max-width: 40%;
 		}
